@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+  <g id="RactangleGreen" transform="translate(-219 -255)">
+    <g id="長方形_1" data-name="長方形 1" transform="translate(219 255)" fill="#76c486" stroke="#76c486" stroke-linejoin="round" stroke-width="8">
+      <rect width="400" height="250" rx="40" stroke="none"/>
+      <rect x="4" y="4" width="392" height="242" rx="36" fill="none"/>
+    </g>
+    <g id="長方形_6" data-name="長方形 6" transform="translate(229 265)" fill="rgba(118,196,134,0)" stroke="#c1eac9" stroke-linejoin="round" stroke-width="8">
+      <rect width="380" height="230" rx="40" stroke="none"/>
+      <rect x="4" y="4" width="372" height="222" rx="36" fill="none"/>
+    </g>
+    <text id="メニュー" transform="translate(250 292)" fill="#fff" stroke="#fff" stroke-width="1" font-size="110" font-family="bananaslipplus, bananaslip plus"><tspan x="0" y="122">メニュー</tspan></text>
+  </g>
+</svg>
