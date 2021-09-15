@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="521" height="320" viewBox="0 0 521 320">
+  <g id="バスアイコン" transform="translate(-87 -141)">
+    <g id="バス本体">
+      <g id="長方形_1" data-name="長方形 1" transform="translate(87 141)" fill="#33c42e" stroke="#33c42e" stroke-width="1">
+        <path d="M40,0H481a40,40,0,0,1,40,40V266a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V40A40,40,0,0,1,40,0Z" stroke="none"/>
+        <path d="M40,.5H481A39.5,39.5,0,0,1,520.5,40V265a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V40A39.5,39.5,0,0,1,40,.5Z" fill="none"/>
+      </g>
+      <g id="楕円形_1" data-name="楕円形 1" transform="translate(147 352)" fill="#413e3e" stroke="#413e3e" stroke-width="1">
+        <circle cx="52.5" cy="52.5" r="52.5" stroke="none"/>
+        <circle cx="52.5" cy="52.5" r="52" fill="none"/>
+      </g>
+      <g id="楕円形_2" data-name="楕円形 2" transform="translate(450 353)" fill="#413e3e" stroke="#413e3e" stroke-width="1">
+        <ellipse cx="52" cy="54" rx="52" ry="54" stroke="none"/>
+        <ellipse cx="52" cy="54" rx="51.5" ry="53.5" fill="none"/>
+      </g>
+      <g id="楕円形_3" data-name="楕円形 3" transform="translate(172 377)" fill="#b9b9b9" stroke="#413e3e" stroke-width="1">
+        <circle cx="28" cy="28" r="28" stroke="none"/>
+        <circle cx="28" cy="28" r="27.5" fill="none"/>
+      </g>
+      <g id="楕円形_4" data-name="楕円形 4" transform="translate(474 377)" fill="#b9b9b9" stroke="#413e3e" stroke-width="1">
+        <circle cx="28" cy="28" r="28" stroke="none"/>
+        <circle cx="28" cy="28" r="27.5" fill="none"/>
+      </g>
+    </g>
+    <g id="窓" transform="translate(-2)">
+      <g id="長方形_2" data-name="長方形 2" transform="translate(105 184)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <rect width="79" height="139" stroke="none"/>
+        <rect x="0.5" y="0.5" width="78" height="138" fill="none"/>
+      </g>
+      <g id="長方形_3" data-name="長方形 3" transform="translate(211 184)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <rect width="85" height="85" stroke="none"/>
+        <rect x="0.5" y="0.5" width="84" height="84" fill="none"/>
+      </g>
+      <g id="長方形_5" data-name="長方形 5" transform="translate(435 184)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <rect width="85" height="85" stroke="none"/>
+        <rect x="0.5" y="0.5" width="84" height="84" fill="none"/>
+      </g>
+      <g id="長方形_6" data-name="長方形 6" transform="translate(547 184)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <rect width="47" height="85" stroke="none"/>
+        <rect x="0.5" y="0.5" width="46" height="84" fill="none"/>
+      </g>
+      <g id="長方形_4" data-name="長方形 4" transform="translate(323 184)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+        <rect width="85" height="85" stroke="none"/>
+        <rect x="0.5" y="0.5" width="84" height="84" fill="none"/>
+      </g>
+    </g>
+    <g id="ハンドル">
+      <path id="パス_4" data-name="パス 4" d="M.341.135,18.081,18.283" transform="translate(105 272.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="パス_5" data-name="パス 5" d="M-.067-.131,14.48,14.229" transform="translate(105.5 280.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="線_5" data-name="線 5" x1="4" y2="4" transform="translate(119.5 290.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="パス_6" data-name="パス 6" d="M0,0V7.762" transform="translate(105.5 273)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="長方形_7" data-name="長方形 7" transform="translate(104.875 280.276) rotate(-45)" fill="#707070" stroke="#707070" stroke-width="1">
+        <rect width="6" height="21" stroke="none"/>
+        <rect x="0.5" y="0.5" width="5" height="20" fill="none"/>
+      </g>
+      <g id="多角形_1" data-name="多角形 1" transform="matrix(-0.017, 1, -1, -0.017, 108.863, 272.868)" fill="#fff">
+        <path d="M 5.868179321289062 2.618536233901978 L 1.34232771396637 2.618536233901978 L 3.605253458023071 0.6611063480377197 L 5.868179321289062 2.618536233901978 Z" stroke="none"/>
+        <path d="M 3.605253458023071 1.322197794914246 L 2.684630393981934 2.118536472320557 L 4.525876522064209 2.118536472320557 L 3.605253458023071 1.322197794914246 M 3.605253458023071 -3.576278686523438e-06 L 7.210503578186035 3.118536233901978 L 3.337860107421875e-06 3.118536233901978 L 3.605253458023071 -3.576278686523438e-06 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+    <g id="運転手" transform="translate(6.036)">
+      <g id="楕円形_5" data-name="楕円形 5" transform="translate(134 231)" fill="#555252" stroke="#555252" stroke-width="1">
+        <circle cx="18" cy="18" r="18" stroke="none"/>
+        <circle cx="18" cy="18" r="17.5" fill="none"/>
+      </g>
+      <path id="パス_1" data-name="パス 1" d="M143.184,267a20.647,20.647,0,0,0,2.132,1.419,7.654,7.654,0,0,0,1.187.535c-.089-.024.15.046.433.123,4.763,1.285,6.824.706,6.824.706l1.691-.18,1.461-.237,2.114-.655,3.405-1.71L176.6,322.708c0,.657-47.929,0-47.929,0Z" transform="translate(-0.64 0)" fill="#555252" stroke="#555252" stroke-width="1"/>
+      <path id="パス_2" data-name="パス 2" d="M142.891,276.372c-5.491,5.5-11.049,10.546-11.049,10.546l-2.659,2.034-19.023,6.129s-3.567,3.129-2.378,6,3.309,2.872,3.309,2.872,16.506-4.886,21.262-6.879,15.991-13.695,15.991-13.695Z" transform="translate(90.941 -34.728) rotate(17)" fill="#555252" stroke="#555252" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
